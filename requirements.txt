@@ -1,8 +1,11 @@
 # requirements.txt
 huggingface_hub
+google-generativeai
+scikit-learn
 joblib
 numpy
 openai-whisper
 protobuf
 python-dotenv
 streamlit
+
